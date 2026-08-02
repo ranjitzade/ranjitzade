@@ -9,7 +9,7 @@
     <circle cx="70" cy="70" r="56" fill="none" stroke="#e9edf5" stroke-width="14"/>
     <path d="M70 14a56 56 0 1 1-48.5 84" fill="none" stroke="#16a34a" stroke-width="14" stroke-linecap="round"/>
     <text x="70" y="78" text-anchor="middle" fill="#172033" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">88</text>
-    <text x="70" y="154" text-anchor="middle" fill="#5c667a" font-family="Arial, Helvetica, sans-serif" font-size="14">Overall</text>
+    <text x="70" y="146" text-anchor="middle" fill="#5c667a" font-family="Arial, Helvetica, sans-serif" font-size="14">Overall</text>
   </g>
   <g transform="translate(236 154)">
     <rect width="172" height="116" rx="8" fill="#f8fafc" stroke="#d9dee8"/>
@@ -32,5 +32,5 @@
     <rect x="24" y="92" width="124" height="8" rx="4" fill="#e9edf5"/>
     <rect x="24" y="92" width="119" height="8" rx="4" fill="#16a34a"/>
   </g>
-  <text x="64" y="306" fill="#5c667a" font-family="Arial, Helvetica, sans-serif" font-size="14">APK, AAB, and IPA reports with JSON, HTML, score gates, framework packs, and MCP mode.</text>
+  <text x="64" y="318" fill="#5c667a" font-family="Arial, Helvetica, sans-serif" font-size="14">APK, AAB, and IPA reports with JSON, HTML, score gates, framework packs, and MCP mode.</text>
 </svg>
