@@ -2,6 +2,11 @@
 
 I lead mobile/frontend engineering at Jupiter Money, a consumer fintech operating at UPI scale in India. My day-to-day spans React Native, native Android, and native iOS (not one with the other two bolted on), and I work in Flutter when the problem fits. Most of what I ship is inside private repos, so this profile is quieter than the work behind it.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Layered diagram of the mobile stack: React Native, TypeScript and React on the product surface; TurboModules, Fabric, JSI and native modules at the boundary; Kotlin, Java and Gradle on Android and Swift, Objective-C and Xcode on iOS underneath." src="assets/stack-light.svg" width="100%">
+</picture>
+
 ## What I build
 
 - Consumer fintech apps handling real money, real scale, real failure modes
@@ -24,6 +29,11 @@ I lead mobile/frontend engineering at Jupiter Money, a consumer fintech operatin
 ## Featured
 
 **[app-audit](https://github.com/ranjitzade/app-audit)**: a Lighthouse-style static audit CLI for release artifacts (APK/AAB/IPA). Size breakdowns, build-config findings, Hermes and bundle checks for React Native, Flutter AOT/tree-shaking checks, iOS IPA parsing, scored JSON/HTML reports, CI score gates, and an MCP server. TypeScript, MIT-licensed.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/app-audit-dark.svg">
+  <img alt="Example app-audit report summary showing an overall score of 88, a size score of 92, a build config score of 81, and a framework score of 96." src="assets/app-audit-light.svg" width="100%">
+</picture>
 
 A new portfolio site is in progress.
 

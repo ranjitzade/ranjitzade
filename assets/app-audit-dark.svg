@@ -1,0 +1,36 @@
+<svg width="920" height="360" viewBox="0 0 920 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="app-audit-dark-title app-audit-dark-desc">
+  <title id="app-audit-dark-title">app-audit score summary</title>
+  <desc id="app-audit-dark-desc">Example app-audit report summary showing an overall score of 88, a size score of 92, a build config score of 81, and a framework score of 96.</desc>
+  <rect width="920" height="360" rx="8" fill="#0d1117"/>
+  <rect x="28" y="28" width="864" height="304" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="64" y="78" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">app-audit report</text>
+  <text x="64" y="108" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="15">Static release artifact analysis</text>
+  <g transform="translate(64 142)">
+    <circle cx="70" cy="70" r="56" fill="none" stroke="#30363d" stroke-width="14"/>
+    <path d="M70 14a56 56 0 1 1-48.5 84" fill="none" stroke="#3fb950" stroke-width="14" stroke-linecap="round"/>
+    <text x="70" y="78" text-anchor="middle" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">88</text>
+    <text x="70" y="154" text-anchor="middle" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14">Overall</text>
+  </g>
+  <g transform="translate(236 154)">
+    <rect width="172" height="116" rx="8" fill="#1c2128" stroke="#30363d"/>
+    <text x="24" y="36" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14">Size</text>
+    <text x="24" y="78" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">92</text>
+    <rect x="24" y="92" width="124" height="8" rx="4" fill="#30363d"/>
+    <rect x="24" y="92" width="114" height="8" rx="4" fill="#58a6ff"/>
+  </g>
+  <g transform="translate(432 154)">
+    <rect width="172" height="116" rx="8" fill="#1c2128" stroke="#30363d"/>
+    <text x="24" y="36" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14">Build config</text>
+    <text x="24" y="78" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">81</text>
+    <rect x="24" y="92" width="124" height="8" rx="4" fill="#30363d"/>
+    <rect x="24" y="92" width="100" height="8" rx="4" fill="#d29922"/>
+  </g>
+  <g transform="translate(628 154)">
+    <rect width="172" height="116" rx="8" fill="#1c2128" stroke="#30363d"/>
+    <text x="24" y="36" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14">Framework</text>
+    <text x="24" y="78" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">96</text>
+    <rect x="24" y="92" width="124" height="8" rx="4" fill="#30363d"/>
+    <rect x="24" y="92" width="119" height="8" rx="4" fill="#3fb950"/>
+  </g>
+  <text x="64" y="306" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14">APK, AAB, and IPA reports with JSON, HTML, score gates, framework packs, and MCP mode.</text>
+</svg>
